@@ -1,1 +1,1 @@
-# Python_day02
+# Python Learnings
